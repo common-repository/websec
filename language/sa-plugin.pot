@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-06 12:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "You have the latest WordPress Version "
+msgstr ""
+
+msgid "Please install the latest WordPress Version (at least %s)"
+msgstr ""
+
+msgid "You have the latest PHP Version"
+msgstr ""
+
+#: rule/SACheckHttps.php:20
+msgid "You have an encrypted Connection (https)."
+msgstr ""
+
+#: rule/SACheckHttps.php:24
+msgid ""
+"You don’t use a secure connection. No SSL-certificate (https) is in use"
+msgstr ""
+
+#: rule/SACheckPluginVersion.php:22
+msgid "The following plugins can be updated: "
+msgstr ""
+
+#: rule/SACheckPluginVersion.php:36
+msgid "All plugins are updated."
+msgstr ""
+
+#: rule/SACheckWpDebug.php:19
+msgid "The developer modus is activated."
+msgstr ""
+
+#: rule/SACheckWpDebug.php:23
+msgid "The developer modus is deactivated."
+msgstr ""
+
+#: rule/SACheckWpTablePrefix.php:22
+msgid ""
+"The table prefix for the database is not equal to its default value : "
+msgstr ""
+
+#: rule/SACheckWpTablePrefix.php:26
+msgid "The table prefix for the database is equal to its default value : "
+msgstr ""
+
+#: rule/SACheckWpUpdates.php:19
+msgid "WordPress auto updater is activated."
+msgstr ""
+
+#: rule/SACheckWpUpdates.php:23
+msgid "Automatic WordPress updates are deactivated."
+msgstr ""
+
+#: view/SAEulaView.php:52
+msgid "Welcome"
+msgstr ""
+
+#: view/SAEulaView.php:53
+msgid "All we need to get started is your permission to access your WordPress data."
+" This will allow us to provide you with an analysis of your security status"
+" as well as relevant tips to remove vulnerabilities "
+msgstr ""
+
+#: view/SAEulaView.php:55
+msgid "I want tips concerning my security"
+msgstr ""
+
+#: view/SAEulaView.php:56
+msgid "and agree to the: "
+msgstr ""
+
+#: view/SAEulaView.php:56
+msgid "Privacy Policy"
+msgstr ""
+
+#: view/SAEulaView.php:56
+msgid "Terms of Service"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "SecurityAdvisor"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://yourguy.marketing/"
+msgstr ""
+
+msgid "Your WordPress instance uses secure and unique authentication keys."
+msgstr ""
+
+msgid "Your WordPress instance doesn't use secure and unique authentication keys."
+msgstr ""
+
+msgid "You don't use 'admin' as a username for your administrator account."
+msgstr ""
+
+msgid "Don't use 'admin' as a username for your administrator account."
+msgstr ""
+
+msgid "Your ReadMe.txt does not publicly disclose information to access the system."
+msgstr ""
+
+msgid "Your ReadMe.txt does publicly disclose information to access the system."
+mststr ""
